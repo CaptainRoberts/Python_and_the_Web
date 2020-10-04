@@ -471,6 +471,16 @@
         "code"
       ]
     }
+      ],
+    { 
+      "login": "CaptainRoberts",
+      "name": "Benjamin Pingol",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25398128?s=460&u=3b6efcf9673deb9eaed76873c802cb6ef096852e&v=4",
+      "profile": "https://github.com/CaptainRoberts",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "Python_and_the_Web",
